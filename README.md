@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Tunisia-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20 French %20% Arabic" />
+  <img src="https://img.shields.io/badge/Languages-English" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Houda </h1>
